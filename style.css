@@ -1,8 +1,10 @@
 /*head*/
 
 header {
-    background-image: url("http://www.placecage.com/900/800");
+    background: url("http://www.placecage.com/900/300") no-repeat;
+    background-size:cover;
     border: 1px solid #000000;
+    height: 300px;
 }
 
 
@@ -20,19 +22,12 @@ nav a, li {
 main {
   padding: 100px;
 
-}
-header {
 
-  margin: 0px;
-}
-section {
-padding: 10px;
 
 
 
 }
 div {
-  border: 1px solid #000000;
   float: right;
   width: 10%;
   font-size: 11px;
@@ -54,6 +49,6 @@ h6 {
 
 footer {
 
-align-items: center;
+
 
 }
